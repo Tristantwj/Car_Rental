@@ -2,6 +2,8 @@
 
 Car rental application to automate booking system
 
-- Register function for users and staffs
+1. Written using MVC architechture
+
+
 - For Staff use code 'staff' to register (Ensuring only staffs register)
 
